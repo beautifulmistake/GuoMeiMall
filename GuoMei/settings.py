@@ -103,7 +103,7 @@ RESULT_PATH = os.path.join(os.path.dirname(__file__), "result")     # 用于存�
 MONGO_IP = 'localhost'
 MONGO_PORT = 27017
 MONGO_DB_NAME = 'f_GuoMei'
-MONGO_URL = "mongodb://admin:admin@139.217.99.231:22022"
+MONGO_URL = "mongodb://admin:admin@IP:Port"
 RESULT_COLLECTIONS_NAME = 'guomei_result'
 SHOP_INFO_COLLECTIONS_NAME = 'guomei_shop'
 
